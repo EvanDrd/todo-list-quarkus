@@ -1,4 +1,4 @@
-# mon-projet-quarkus
+# mon-projet-quarkus/ TodoLIST
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
